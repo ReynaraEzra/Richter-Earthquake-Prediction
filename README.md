@@ -1,3 +1,3 @@
-# Richter-Earthquake-Predictor
+# Richter-Earthquake-Prediction
 Richter's Predictor: Modeling Earthquake Damage <div>
 Dataset : https://www.drivendata.org/competitions/57/nepal-earthquake/
