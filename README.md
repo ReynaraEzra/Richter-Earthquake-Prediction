@@ -15,3 +15,7 @@ Reference : <div>
 - https://stackoverflow.com/questions/44101458/random-forest-feature-importance-chart-using-python <div>
 - https://towardsdatascience.com/xgboost-fine-tune-and-optimize-your-model-23d996fab663 <div>
 - https://numpy.org/doc/stable/reference/generated/numpy.argsort.html <div>
+- https://renier-meyer.medium.com/a-very-gentle-introduction-to-multi-class-classification-a57642caab52 <div>
+- https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2 <div>
+- https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2 <div>
+- https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1 <div>
