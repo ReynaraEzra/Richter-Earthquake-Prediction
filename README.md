@@ -19,3 +19,4 @@ Reference : <div>
 - https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2 <div>
 - https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2 <div>
 - https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1 <div>
+- https://rey1024.medium.com/mengenal-accuracy-precission-recall-dan-specificity-serta-yang-diprioritaskan-b79ff4d77de8 
