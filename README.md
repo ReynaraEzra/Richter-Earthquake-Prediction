@@ -4,6 +4,10 @@ Richter's Predictor: Modeling Earthquake Damage <div>
   Part 2 : Feature Selection, Model Building, Model Development <div>
   Part 3 : Hyperparameter Tuning, Predict on Test Data, Conclusion <div> 
 Dataset : https://www.drivendata.org/competitions/57/nepal-earthquake/
+
+Model : https://drive.google.com/drive/folders/1E4cHKwhy-izvzUMdMyHJ2YKzD--1fmeB?usp=sharing
+  
+
 <div>
 Reference : <div>
 - https://blog.clairvoyantsoft.com/correlation-and-collinearity-how-they-can-make-or-break-a-model-9135fbe6936a <div>
