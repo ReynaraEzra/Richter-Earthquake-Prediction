@@ -19,6 +19,20 @@ Efforts to determine the level of damage to a building due to an earthquake will
 ## Model
 Model : https://drive.google.com/drive/folders/1E4cHKwhy-izvzUMdMyHJ2YKzD--1fmeB?usp=sharing
 
+Details of the models on the drive :
+- `model_1` : Logistic Regression
+- `model_2` : Decision Tree
+- `model_3` : K-Nearest Neighbors
+- `model_4` : Linear Discriminant Analysis
+- `model_5` : Naive Bayes
+- `model_6` : Extreme Gradient Boosting
+- `model_7` : Random Forest
+- `rscv_xgb` : Extreme Gradient Boosting Parameter Tuning
+- `rscv_rf` : Random Forest Parameter Tuning
+- `tuning_xgb_model` : Extreme Gradient Boosting with Parameter Tuning (n_estimators=150, max_depth=10)
+- `tuning_rf_model` : Random Forest with Parameter Tuning (n_estimators=100, max_features=None, max_depth=21)
+- `final_model` : Final Model using Extreme Gradient Boosting with Parameter (n_estimators=150, max_depth=10) for all training data
+
 ## Conclusion
 - After carrying out the Exploratory Data Analysis process, the average level of damage was **2.238272** which stated that the building experienced a moderate level of damage. The complete list is as many as **148259** buildings with medium damage, **87218** buildings with high damage, and **25124** buildings with low damage. It can be seen that the number of buildings with a moderate level of damage is the highest at **56.89%**, followed by buildings with a high level of damage at **33.47%** and finally buildings with a low level of damage at **9.64%**. The higher geographical level between `geo_level_1_id`, `geo_level_2_id`, and `geo_level_3_id` provides information that the higher the geographical level, the more the same level of damage.
 - The building recommendations that are considered to be able to minimize the impact of the earthquake are as follows. Buildings using Reinforce Concrete Engineered or Cement Mortar Brick super superstructures. Buildings with 1 or 3 floors. Buildings with normalized height less than 3 meters or more than 9 meters. Buildings with a normalized area of less than 4 square meters or more than 10 square meters.
